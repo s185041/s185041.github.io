@@ -2,6 +2,7 @@
   width: 100%;
   margin: 0 auto;
   max-width: 800px;
+  padding: 100px 0;
   position: relative;
 }
 .timeline:before {
@@ -40,8 +41,8 @@
   border: 4px solid salmon;
   background-color: #fff;
   border-radius: 100%;
-  top: 15%;
-  right: -28px;
+  top: 10%;
+  right: -27px;
   z-index: 99;
 }
 .entry .title h3 {
