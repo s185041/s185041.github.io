@@ -2,7 +2,15 @@
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 1.2em;
   color: #fff;
   margin: 16px 0 15px;
+}
+
+.a-subtitle {
+  margin-top: -40px;
+  text-align: center;
+  font-size: 1.2em;
+  color: #777;
+  margin-bottom: 70px;
 }
