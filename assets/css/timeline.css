@@ -11,12 +11,6 @@
   padding-left: 0;
   list-style-type: none;
 }
-/*
-.entry .body ul li:before {
-  content: "–";
-  margin-right: .5em;
-}
-*/
 
 @media ( min-width : 767px ){
   .timeline {
